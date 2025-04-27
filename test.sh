@@ -13,5 +13,5 @@ sudo add-apt-repository multiverse
 sudo apt-get install -y nginx
 
 # Set the home page.
-echo "<html><body><h2>testing ms azure minhyukkang </h2></body></html>" | sudo tee -a /var/www/html/index.html
+echo "<html><body><h2>testing ms azure minhyukkang: zzzz) </h2></body></html>" | sudo tee -a /var/www/html/index.html
 
